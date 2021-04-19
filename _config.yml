@@ -18,9 +18,9 @@ defaults:
 
 projects:
   sort_by: pushed
-  limit: 12
+  limit: 9
   exclude:
-    archived: false
+    archived: true
     forks: false
     projects:
     # - repo-name
